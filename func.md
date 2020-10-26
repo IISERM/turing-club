@@ -15,4 +15,5 @@ While the speaker works on the Topology of Real Algebraic Varieties, they also a
 ## Time and Venue
 
 **Time**: Friday, October 30th, 2020, 5 pm
+
 **Venue**: Zoom link and Youtube link will be shared once available.
