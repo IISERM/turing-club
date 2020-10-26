@@ -1,4 +1,4 @@
-g# Hello World!
+# Hello World!
 
 Turing Club is the Coding Club of IISER Mohali, and this is the website of the club. Right now, this is a stub and acts simply as a bulletin board.
 
