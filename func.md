@@ -16,7 +16,7 @@ While the speaker works on the Topology of Real Algebraic Varieties, they also a
 
 **Time**: Friday, October 30th, 2020, 5 pm
 
-**Zoom link**: https://zoom.us/j/99081108782?pwd=WmJ6K1lkSU1LOWhTZU9LRDBSaDFLdz09
+**Zoom link**: [https://zoom.us/j/99081108782?pwd=WmJ6K1lkSU1LOWhTZU9LRDBSaDFLdz09](https://zoom.us/j/99081108782?pwd=WmJ6K1lkSU1LOWhTZU9LRDBSaDFLdz09)
 
 Meeting ID: 990 8110 8782
 
