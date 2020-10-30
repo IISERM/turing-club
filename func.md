@@ -16,4 +16,14 @@ While the speaker works on the Topology of Real Algebraic Varieties, they also a
 
 **Time**: Friday, October 30th, 2020, 5 pm
 
-**Venue**: Zoom link and Youtube link will be shared once available.
+**Zoom link**: https://zoom.us/j/99081108782?pwd=WmJ6K1lkSU1LOWhTZU9LRDBSaDFLdz09
+
+Meeting ID: 990 8110 8782
+
+Passcode: 015553
+
+We would like to thank the Dean Acad and the Dean Acad Office for their help in providing the zoom account.
+
+**YouTube**
+
+We are facing some issues with our YT account, so the streaming link will be sent later. The meeting can accomodate a total of 300 people, and we do not think that it will exceed this number. Please prove us wrong!
