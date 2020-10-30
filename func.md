@@ -25,5 +25,4 @@ Passcode: 015553
 We would like to thank the Dean Acad and the Dean Acad Office for their help in providing the zoom account.
 
 **YouTube**
-
-We are facing some issues with our YT account, so the streaming link will be sent later. The meeting can accomodate a total of 300 people, and we do not think that it will exceed this number. Please prove us wrong!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CBlQNLGgUiM?start=45" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
