@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Turing Club, IISER Mohali
 description: The Coding Club of IISER Mohali
-exclude: *orientation.md
+exclude: orientation.md
