@@ -2,7 +2,6 @@
 title: Turing Club Orientation
 author: Turing Club
 theme: black
-date: \today
 slideNumber: true
 ---
 
