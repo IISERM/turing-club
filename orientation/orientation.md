@@ -1,8 +1,10 @@
 ---
 title: Turing Club Orientation
 author: Turing Club
-theme: black
+theme: simple
+date: \today
 slideNumber: true
+transition: none
 ---
 
 # Hello MS-20!
