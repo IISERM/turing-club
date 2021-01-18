@@ -1,9 +1,11 @@
 ---
 title: Turing Club Orientation
 author: Turing Club
-theme: simple
+#theme: white
+theme: JuanLesPins
 slideNumber: true
-transition: none
+transition: fade
+transition-speed: fast
 ---
 
 # Hello MS-20!
@@ -42,8 +44,8 @@ Computers have been extremely useful in Science. Physics, Bio, Chem Math... lite
 
 ---
 
-<!--<video src="file.mp4" playbackRate=10 controls autoplay></video>
--->
+<!--<video src="file.mp4" playbackRate=10 controls autoplay></video>-->
+
 
 <link href="https://vjs.zencdn.net/5.10.4/video-js.css" rel="stylesheet">
 
@@ -61,7 +63,7 @@ Computers are a way to let your let your creativity flow and it forms a way to e
 
 ---
 
-![Wolfram Cellular Automata Rule 26](wrCA.png)
+![Wolfram Cellular Automata Rule 26](wrCA.bmp)
 
 # Computers Themselves
 
