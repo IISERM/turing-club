@@ -9,4 +9,4 @@ Neural Networks have been around since 1958. But it is only now that it has been
 | Time           | 6 pm           |
 | Unix Timestamp | 1611491400     |
 
-![Neural Networks](events/resources/Neural%20Network.jpeg)
+![Neural Networks](./resources/Neural%20Network.jpeg)
