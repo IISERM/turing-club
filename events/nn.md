@@ -11,4 +11,10 @@ Neural Networks have been around since 1958. But it is only now that it has been
 
 ![Neural Networks](./resources/Neural%20Network.jpeg)
 
+## Recorded Video
+
 <iframe width="100%" max-width="640" height="360" src="https://www.youtube.com/embed/8-AZfaBtXrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Talk Slides
+
+[Talk Slides can be downloaded from here](resources/nn.pdf)
