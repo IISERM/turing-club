@@ -4,12 +4,12 @@ Turing Club is the Coding Club of IISER Mohali, and this is the website of the c
 
 # Upcoming events
 
-## [Code Golf](events/cg/cg.md)
+## [Code Golf](./events/cg/cg.md)
 
 
 # Past Events
 
-- [Workshop on Neural Networks](events/nn.md) - Sayar Mandal
+- [Workshop on Neural Networks](./events/nn.md) - Sayar Mandal
 - [MS20 Orientation](orientation/orientation.html)
 - [Functional Programming - Shane D'Mello](./events/func.md)
 - [Code the Matrix - SW Hackathon](https://iiserm.github.io/schrodinger-week/code-the-matrix)
