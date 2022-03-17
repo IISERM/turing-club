@@ -1,3 +1,5 @@
+## Week 1
+
 Print all the natural numbers from 1 to N (1 and N inclusive). Print “CODE” if it is a multiple of 3, print “GOLF” if it is a multiple of 7, and print “CODEGOLF” if it is a multiple of 3 and 7 both. Write a solution that uses the minimum number of characters. 
 
 #### Input:
