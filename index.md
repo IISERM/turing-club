@@ -4,12 +4,12 @@ Turing Club is the Coding Club of IISER Mohali, and this is the website of the c
 
 # Upcoming events
 
-## [Workshop on Neural Networks](events/nn.md)
+## [Code Golf](events/cg/cg.md)
 
-Neural Networks have been around since 1958. But it is only now that it has been able to show state-of-the-art results. Several advances have been made over a classical artificial neural network, but the basic principle hasn't changed much. In this webinar, we will understand the mathematical underpinnings of the neural network. Then we will move on to explore the NEAT algorithm. And, finally, we will play flappy bird.
 
 # Past Events
 
+- [Workshop on Neural Networks](events/nn.md) - Sayar Mandal
 - [MS20 Orientation](orientation/orientation.html)
 - [Functional Programming - Shane D'Mello](./events/func.md)
 - [Code the Matrix - SW Hackathon](https://iiserm.github.io/schrodinger-week/code-the-matrix)
