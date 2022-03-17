@@ -10,7 +10,7 @@ Here are the rules of the event-
 4. The winners would be announced in 3 categories- MS21, MS20 and (MS19, MS18, MS17, IntPhDs and PhDs combined). We will maintain 3 leaderboards and at the end of the semester, we will announce a winner from each of the 3 categories.
 
 ## Problem Archive
-##### [Week 1](/events/cg/week1.md)
+##### [Week 1](/events/cg/problems/week1.md)
 
 ## LeaderBoard
 
