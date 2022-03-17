@@ -3,10 +3,11 @@ A code golf is a recreational programming contest where participants have to sol
 
 
 Here are the rules of the event-
-1) Every week, we would send a basic question and specify whether you have to submit the shortest or the fastest solution to it.
-2) The difficulty would increase every week(don't worry, we won't get to the level of hackathons).
-3) The solutions are expected to be written in python and submitted in a text file via a google form.
-4) The winners would be announced in 3 categories- MS21, MS20 and (MS19, MS18, MS17, IntPhDs and PhDs combined). We will maintain 3 leaderboards and at the end of the semester, we will announce a winner from each of the 3 categories.
+
+1. Every week, we would send a basic question and specify whether you have to submit the shortest or the fastest solution to it.
+2. The difficulty would increase every week(don't worry, we won't get to the level of hackathons).
+3. The solutions are expected to be written in python and submitted in a text file via a google form.
+4. The winners would be announced in 3 categories- MS21, MS20 and (MS19, MS18, MS17, IntPhDs and PhDs combined). We will maintain 3 leaderboards and at the end of the semester, we will announce a winner from each of the 3 categories.
 
 ## Problem Archive
 ##### [Week 1](/events/cg/week1.md)
