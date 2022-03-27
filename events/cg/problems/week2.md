@@ -1,3 +1,5 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ## Week 2
 
 You are on a heist to rob the world’s largest metal reservoir. You have brought a bag along with you which can only hold M kgs at maximum. There are N types of metals in there, in the form of bricks. Each brick of i-th metal weighs $w_{i}$ kgs and holds a value of $ $v_{i}$  in the black market. Write a program to calculate the maximum value of metals which you can take with you. 
