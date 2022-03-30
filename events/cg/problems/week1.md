@@ -55,7 +55,36 @@ Code your answers in a colab notebook and send us the link to it (we know it’s
 
 You have exactly one week to send your responses in. Deadline: 23rd March, 2022, 12:00PM
 
- 
-#### Submission Link:
 
-https://forms.gle/Jagdugrq3qURfje6A
+#### Winning Entries:
+
+Here are the winning codes !!
+
+MS21 : Armandeep Singh MS21021 
+
+#### 69 Characters
+
+```
+for x in range(int(input())):print(x%3//2*'CODE'+x%7//6*'GOLF'or x+1) 
+```
+
+MS20 : Aswin R Nair 
+
+#### 102 Characters
+
+```
+i=int(input())
+for x in range(1,i+1):
+   o=[x,"CODE","GOLF","CODEGOLF"]
+   print(o[1*(x%3==0)+2*(x%7==0)])
+```
+
+MS19, MS18, MS17 : Akshay Shankar MS18117 & Dhruva Sambrani MS18163
+
+#### 71 Characters
+
+```
+for i in range(int(input())):print('CODE'*(i%3>1)+'GOLF'*(i%7>5)or i+1) 
+```
+
+###### Note: We haven't considered newlines and spaces for this problem 
