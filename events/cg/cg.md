@@ -12,6 +12,7 @@ Here are the rules of the event-
 ## Problem Archive
 ##### [Week 1](problems/week1.md)
 ##### [Week 2](problems/week2.md)
+##### [Week 3](problems/week3.md)
 
 ## LeaderBoard
 

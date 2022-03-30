@@ -1,14 +1,16 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+</script>
 
 ## Week 2
 
-You are on a heist to rob the world’s largest metal reservoir. You have brought a bag along with you which can only hold M kgs at maximum. There are N types of metals in there, in the form of bricks. Each brick of i-th metal weighs $w_{i}$ kgs and holds a value of $ $v_{i}$  in the black market. Write a program to calculate the maximum value of metals which you can take with you. 
+You are on a heist to rob the world’s largest metal reservoir. You have brought a bag along with you which can only hold M kgs at maximum. There are N types of metals in there, in the form of bricks. Each brick of i-th metal weighs \(w_{i}\) kgs and holds a value of $ \(v_{i}\)  in the black market. Write a program to calculate the maximum value of metals which you can take with you. 
 
 #### Input:
 
 - First line of input contains two non positive integers N and M.
-- Second line contains N space separated non negative integers $w_{1}, w_{2}, w_{3},..., w_{N}$ where $w_{i}$ represents the weight of one brick of i-th metal.
-- Third line contains N space separated positive integers $v_{1}, v_{2}, v_{3}, …, v_{N}$ where $v_{i}$ represents the value of one brick of i-th metal in black market .
+- Second line contains N space separated non negative integers \(w_{1}, w_{2}, w_{3},..., w_{N}\) where \(w_{i}\) represents the weight of one brick of i-th metal.
+- Third line contains N space separated positive integers \(v_{1}, v_{2}, v_{3}, …, v_{N}\) where \(v_{i}\) represents the value of one brick of i-th metal in black market.
 
 
 #### Output:
