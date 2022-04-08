@@ -60,17 +60,17 @@ You have exactly one week to send your responses in. Deadline: 23rd March, 2022,
 
 Here are the winning codes !!
 
-MS21 : Armandeep Singh MS21021 
+#### MS21 : Armandeep Singh MS21021 
 
-#### 69 Characters
+##### 69 Characters
 
 ```
 for x in range(int(input())):print(x%3//2*'CODE'+x%7//6*'GOLF'or x+1) 
 ```
 
-MS20 : Aswin R Nair 
+#### MS20 : Aswin R Nair MS20028
 
-#### 102 Characters
+##### 102 Characters
 
 ```
 i=int(input())
@@ -79,9 +79,9 @@ for x in range(1,i+1):
    print(o[1*(x%3==0)+2*(x%7==0)])
 ```
 
-MS19, MS18, MS17 : Akshay Shankar MS18117 & Dhruva Sambrani MS18163
+#### MS19, MS18, MS17, Int PhD, PhD : Akshay Shankar MS18117 & Dhruva Sambrani MS18163
 
-#### 71 Characters
+##### 71 Characters
 
 ```
 for i in range(int(input())):print('CODE'*(i%3>1)+'GOLF'*(i%7>5)or i+1) 
