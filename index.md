@@ -8,7 +8,7 @@ Turing Club is the Coding Club of IISER Mohali, and this is the website of the c
 
 
 # Past Events
-
+- [Virtual Turing Treasure Hunt](https://iiserm.github.io/GTA-Stress-City/)
 - [Workshop on Neural Networks](./events/nn.md) - Sayar Mandal
 - [MS20 Orientation](orientation/orientation.html)
 - [Functional Programming - Shane D'Mello](./events/func.md)
