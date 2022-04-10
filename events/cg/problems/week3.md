@@ -79,13 +79,12 @@ print('YNEOS'[int(input())%9!=1::2])
 print(["NO","YES"][int(input())%9==1])
 ```
 
-MS19, MS18, MS17, Int PhD, PhD: Baruva TS MS19056
+MS19, MS18, MS17, Int PhD, PhD: Kaustav Sen MS19091
 
 #### 47 characters
 
 ```
-a=int(input())%9==1
-print(a*"YES"+(not a)*"NO")
+print('NYOE S'[int(input())%9==1::2])
 ```
 
 ###### Note: Grading was based on code size; spaces and newlines were considered
