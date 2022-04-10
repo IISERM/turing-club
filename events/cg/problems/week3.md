@@ -59,6 +59,33 @@ YES
 You have exactly 1 week to send in your entries.
 
  
-#### Submission Link:
+#### Winning Entries:
 
-https://forms.gle/dBn6VH55prkSLCCn8
+Here are the winning codes !!
+
+#### MS21 : Sparsha Ray MS21256
+
+##### 37 characters
+
+```
+print('YNEOS'[int(input())%9!=1::2])
+```
+
+#### MS20 : Harsh Raj MS20161, Sachin G Iyer MS20056 
+
+##### 38 characters
+
+```
+print(["NO","YES"][int(input())%9==1])
+```
+
+MS19, MS18, MS17, Int PhD, PhD: Baruva TS MS19056
+
+#### 47 characters
+
+```
+a=int(input())%9==1
+print(a*"YES"+(not a)*"NO")
+```
+
+###### Note: Grading was based on code size; spaces and newlines were considered
