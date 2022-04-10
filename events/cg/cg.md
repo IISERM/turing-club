@@ -70,13 +70,13 @@ Shriti Saini|MS20011|23
 **Name**|**Roll Number**|**Score**
 :-----:|:-----:|:-----:
 Baruva TS|MS19056|101
+Kaustav Sen|MS19091|68
 Divyanshu Sahu|MS18153|58
 Akshay Shankar|MS18117|40
 Dhruva Sambrani|MS18163|40
 Gariman Singh|MS18057|39
 Arpith Kumar|PH18013|37
 Irfan Kalam|MS17102|29
-Kaustav Sen|MS19091|28
 Aniket Sharma|MS18126|26
 Naveen Kumar Baghel|MS18102|25
 Ira Sharma|MS19037|25
