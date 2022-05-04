@@ -56,6 +56,34 @@ There is only a single line of input containing three space separated numbers A,
 17th April 2022. 5:00 PM
 
  
-#### Submission Link:
+#### Winning Entries:
 
-https://forms.gle/a3xVfCERj37pGQPZ9
+Here are the winning codes !!
+
+#### MS21 : Sparsha Ray MS21256
+
+##### 38 characters
+
+```
+a=input()
+print(+(a<'0 1')^(a[4]>'0'))
+```
+
+#### MS20 : Sachin G Iyer MS20056 
+
+##### 38 characters
+
+```
+print(bin(149)[2+int(input()[::2],2)])
+
+```
+
+#### MS19, MS18, MS17, Int PhD, PhD: Kaustav Sen MS19091
+
+#### 44 characters
+
+```
+print(169>>int(input().replace(' ',''),2)&1)
+```
+
+###### Note: Grading was based on code size; spaces and newlines were considered
