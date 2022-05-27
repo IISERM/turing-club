@@ -15,6 +15,7 @@ Here are the rules of the event-
 ##### [Week 3](problems/week3.md)
 ##### [Week 4](problems/week4.md)
 ##### [Week 5](problems/week5.md)
+##### [Week 6](problems/week6.md)
 
 ## LeaderBoard
 
@@ -33,6 +34,7 @@ G Indrajith|MS21092|41
 ArmaanDeep Singh|MS21021|40
 Rupadarshi Ray|MS21165|40
 Ahir Ghosh|MS21227|37
+Jasteg Singh|MS21042|30
 Arnav Metrani|MS21254|29
 Lakshyajeet Samant|MS21120|28
 Aratrik Basu|MS21011|24
@@ -49,12 +51,13 @@ Deepa F. Chikkamath|MS21242|20
 Krishna Aggarwal|MS21169|16
 Eshna Roy|MS21029|14
 Aditya Joshi|MS21006|0
+Amitesh Gupta|MS21076|0
 
 #### MS20
 
 **Name**|**Roll Number**|**Score**
 :-----:|:-----:|:-----:
-Harsh Raj|MS20161|114
+Harsh Raj|MS20161|154
 Dhwani Shah|MS20156|90
 Sachin G Iyer|MS20056|80
 Shriti Saini|MS20011|49
@@ -71,10 +74,10 @@ Aditya Raj|MS20017|24
 
 **Name**|**Roll Number**|**Score**
 :-----:|:-----:|:-----:
-Baruva TS|MS19056|130
-Kaustav Sen|MS19091|108
-Divyanshu Sahu|MS18153|79
-Love Grover|PH17047|51
+Baruva TS|MS19056|210
+Kaustav Sen|MS19091|141
+Love Grover|PH17047|130
+Divyanshu Sahu|MS18153|99
 Akshay Shankar|MS18117|40
 Dhruva Sambrani|MS18163|40
 Gariman Singh|MS18057|39
@@ -83,10 +86,11 @@ Irfan Kalam|MS17102|29
 Aniket Sharma|MS18126|26
 Naveen Kumar Baghel|MS18102|25
 Ira Sharma|MS19037|25
-Biswajit Panda|PH18040|24
 Deepanshi Awasthi|PH20033|24
+Biswajit Panda|PH18040|24
 Kankana Bhowmick|MS19123|23
 Rupesh|PH19039|23
 Manpreet Singh|MS19098|22
 Rupkatha Chand|MS19170|19
 Rudranil Roy|MS17115|0
+Shivanshu Siyanwal|MS17155|0
